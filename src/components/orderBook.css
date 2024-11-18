@@ -1,0 +1,8 @@
+.increase {
+    color: green;
+    transition: color 0.5s;
+  }
+  .decrease {
+    color: red;
+    transition: color 0.5s;
+  }
